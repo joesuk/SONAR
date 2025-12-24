@@ -1,0 +1,1 @@
+This repository provides Python code to reproduce the experimental results of the paper [An Efficient Variant of One-Class SVM with Lifelong Online Learning Guarantees](https://arxiv.org/pdf/2512.11052) by Joe Suk and Samory Kpotufe.

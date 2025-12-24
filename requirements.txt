@@ -1,0 +1,6 @@
+joblib==1.4.2
+numba==0.61.0+0.g8ec16ceeb.dirty
+numpy==2.4.0
+pandas==2.3.3
+scikit_learn==1.8.0
+threadpoolctl==3.6.0
